@@ -4,11 +4,11 @@
 
                                     Weight      	170g
 
-                                Dimensions        150 x 72.88 x 9.95m
+                                Dimensions          150 x 72.88 x 9.95m
 
-                                        OS        Android 10 (Go Edition)
+                                        OS          Android 10 (Go Edition)
 
-                               Screen size 	      5.5-inch
+                               Screen size 	        5.5-inch
 
                                 Resolution      	960 x 480
 
@@ -20,7 +20,7 @@
 
                                    Battery      	2,500mAh, Removable
 
-                               Rear camera	       5MP
+                               Rear camera	        5MP
 
                               Front camera      	5MP
 ```
