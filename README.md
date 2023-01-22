@@ -20,7 +20,7 @@
 
                                    Battery      	2,500mAh, Removable
 
-                               Rear camera	      5MP
+                               Rear camera	       5MP
 
                               Front camera      	5MP
 ```
